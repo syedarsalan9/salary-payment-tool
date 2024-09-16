@@ -22,7 +22,7 @@ To install and run this project locally, follow these steps:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-repository/salary-payment-tool.git
+git clone https://github.com/syedarsalan9/salary-payment-tool.git
 cd salary-payment-tool
 ```
 
